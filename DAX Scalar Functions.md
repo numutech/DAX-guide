@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 # DAX Scalar Functions: Comprehensive Course Notes with Coffee Retail Dataset Examples
 
 Top takeaway: DAX scalar functions return a single value and are the core building blocks for measures and calculated columns. Mastering them across the categories below—Aggregation, Rounding, Information, Conversion, Logical, and Ranking—enables accurate business logic, robust data quality, and clear reporting.
