@@ -6,9 +6,9 @@ Top takeaway: DAX scalar functions return a single value and are the core buildi
 
 Scalar functions evaluate expressions row-by-row or in filter context and return a single value. They are different from table functions, which return entire tables. Common use cases include:
 
-- Aggregating values into KPIs (e.g., total sales, average cost, max price)[^1]
-- Converting data types and formatting values (e.g., text to dates, numbers to currency)[^1]
-- Evaluating conditions and returning values based on TRUE/FALSE logic[^1]
+- Aggregating values into KPIs (e.g., total sales, average cost, max price)
+- Converting data types and formatting values (e.g., text to dates, numbers to currency)
+- Evaluating conditions and returning values based on TRUE/FALSE logic
 
 The provided reference document introduces five major categories—Aggregation, Rounding, Information, Conversion, Logical—and also highlights iterator “X” patterns and important tips like SUM vs. SUMX evaluation (“syntax sugar”).[^1]
 
